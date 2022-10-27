@@ -48,7 +48,7 @@ Desarrolla la solución para los siguientes ejercicios:
 
 ## Etapa 3. Diseño de la solucion
 
-![]()
+![](https://github.com/Jesus-David-Hernandez-Garcia/T3A7/blob/main/T3A7.png)
 
 ## Etapa 4. Desarrolo de la solución
 
