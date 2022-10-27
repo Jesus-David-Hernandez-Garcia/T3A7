@@ -52,6 +52,57 @@ Desarrolla la solución para los siguientes ejercicios:
 +--------------------------------------------------------+
 ~~~
 
+~~~
+ -Ejercicio 2                                            
++-------------------------------------------------------------+
+|  10 NUNMEROS IMPARES Y SU PRODUCTO                          |
++-------------------------------------------------------------+
+| 1.ingrese el numero impar     1                             |
+| 2.ingrese el numero impar     1                             |
+| 3.ingrese el numero impar     1                             |
+| 4.ingrese el numero impar     1                             |
+| 5.ingrese el numero impar     1                             |
+| 6.ingrese el numero impar     1                             |
+| 7.ingrese el numero impar     1                             |
+| 8.ingrese el numero impar     1                             |
+| 9.ingrese el numero impar     1                             |
+| 10.ingrese el numero impar    1                             |
+|11. el producto de los numeros impares es 10                 |
++-------------------------------------------------------------+
+~~~
+
+~~~
+-Ejercicio 3
++-------------------------------------------------------------+
+|  5 trabajadores y el promedio se su salario                 |
++-------------------------------------------------------------+
+| 1. ingrese salario y nombre del trabajador  Juan, 700       |
+| 2. ingrese salario y nombre del trabajador  David,500       |
+| 3. ingrese salario y nombre del trabajador  Mateo,600       |
+| 4. ingrese salario y nombre del trabajador  Evelin, 800     |
+| 5. ingrese salario y nombre del trabajador  Juan, 700       |    
+| 6. el promedio de los salarios es:    660                   |
++-------------------------------------------------------------+
+~~~
+
+~~~
+-Ejercicio 4
++-------------------------------------------------------------+
+|  Altura de 5 alumnos                                        |
++-------------------------------------------------------------+
+| 1. ingrese edad y altura 18,   1.64                         |
+| 1. ingrese edad y altura 19,   1.79                         |
+| 1. ingrese edad y altura 18,   1.76                         |
+| 1. ingrese edad y altura 18,   1.70                         |
+| 1. ingrese edad y altura 19,   1.80                         |    
+| 6. Altura media:1.73                                        |
+| 7. Edad media:18                                            |
+| 8. Cantidad de alumnos mayores de 18: 5                     |
+| 9. Cantidad de alumnos mas o giual de altos que 1.75: 3     |
++-------------------------------------------------------------+
+
+~~~
+
 
 ## Etapa 3. Diseño de la solucion
 
