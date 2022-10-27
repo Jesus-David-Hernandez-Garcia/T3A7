@@ -32,16 +32,23 @@ Desarrolla la solución para los siguientes ejercicios:
 21. int edad1
   
 ~~~
+- Ejercicio 1
 +--------------------------------------------------------+
-| -Bienvenido Panfilo                                    |
-| - Por favor inserte el menu que usted desee realizar   |
-| 1.Consultar saldo                                      |
-| 2.Consultar estado de cuenta                           |
-| 3.Retirar efectivo                                     |
-|  4.Otras opciones                                      |
-| - .Seguros                                             |
-| - .Créditos                                            |
-| - 5.Salir                                              |
+|-Inicio:                                                |
+| 10                                                     |
+|-Limite:                                                |
+| 50                                                     |
+|-Incremento:                                            |
+| 5                                                      |
+| Numero actual es: 10                                   |
+| Numero actual es: 15                                   |
+| Numero actual es: 20                                   |
+| Numero actual es: 25                                   |
+| Numero actual es: 30                                   |
+| Numero actual es: 35                                   |
+| Numero actual es: 40                                   |
+| Numero actual es: 45                                   |
+| Numero actual es: 50                                   |
 +--------------------------------------------------------+
 ~~~
 
