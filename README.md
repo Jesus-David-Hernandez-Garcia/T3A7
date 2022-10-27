@@ -51,12 +51,16 @@ Desarrolla la solución para los siguientes ejercicios:
 ![](https://github.com/Jesus-David-Hernandez-Garcia/T3A7/blob/main/T3A7.png)
 
 ## Etapa 4. Desarrolo de la solución
+
 Ejercicio 1
 (https://github.com/Jesus-David-Hernandez-Garcia/T3A7/blob/main/T3A71.zip)
+
 Ejercicio 2
 (https://github.com/Jesus-David-Hernandez-Garcia/T3A7/blob/main/T3A72.zip)
+
 Ejercicio 3
 (https://github.com/Jesus-David-Hernandez-Garcia/T3A7/blob/main/T3A73.zip)
+
 Ejercicio 4
 (https://github.com/Jesus-David-Hernandez-Garcia/T3A7/blob/main/T3A74.zip)
 
